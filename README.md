@@ -1,4 +1,4 @@
-# Next Auth v5 - Advanced Guide (2024)
+# Next Auth v5 - User Guide (2024)
 
 Key Features:
 - 🔐 Next-auth v5 (Auth.js)
@@ -9,7 +9,6 @@ Key Features:
 - ✉️ Email verification
 - 📱 Two factor verification
 - 👥 User roles (Admin & User)
-- 🔓 Login component (Opens in redirect or modal)
 - 📝 Register component
 - 🤔 Forgot password component
 - ✅ Verification component
